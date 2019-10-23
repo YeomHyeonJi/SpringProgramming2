@@ -26,7 +26,7 @@
 	$(function(){
 		getBoardList(1);
 	});
-
+	
 
 </script>
 </head>
